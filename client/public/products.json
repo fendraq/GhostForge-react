@@ -1,0 +1,405 @@
+[
+    {
+        "id": "AAAA",
+        "title": "The Smith of Words",
+        "price": 200.0,
+        "currency": "SEK",
+        "description": "50% discount on purchase if added to Material Seletion",
+        "examples": ""
+        
+        
+    },
+    {
+        "id": "BAAA",
+        "title": "Setting",
+        "price": 30.0,
+        "currency": "SEK",
+        "description": "",
+        "examples": [],
+        "customizationOptions": {
+            "Time": [
+                "Victorian England",
+                "The distant future",
+                "Midnight",
+                "Dusk",
+                "A harsh winter",
+                "The height of monsoon season",
+                "The final moments before a major solar eclipse"
+            ],
+            "Place": [
+                "A sprawling megacity",
+                "A forgotten medieval castle",
+                "An underwater research station",
+                "A bustling space colony",
+                "A deserted ghost town",
+                "An underground bunker",
+                "A pristine island with dense jungle"
+            ],
+            "Atmosphere": [
+                "Eerie",
+                "Suspenseful",
+                "Hopeful",
+                "Joyful",
+                "Claustrophobic",
+                "Mysterious",
+                "Foreboding"
+            ]
+        }
+    },
+    {
+        "id": "BAAB",
+        "title": "Characters",
+        "price": 30.0,
+        "currency": "SEK",
+        "description": "",
+        "examples": [],
+        "customizationOptions": {
+            "Protagonist": [
+                "The Reluctant Hero",
+                "The Chosen One",
+                "The Outsider",
+                "The Idealist",
+                "The Survivor",
+                "The Dreamer",
+                "The Anti-Hero"
+            ],
+            "Protagonist Character Traits": [
+                "Brave",
+                "Cunning",
+                "Compassionate",
+                "Impulsive",
+                "Stubborn",
+                "Mysterious",
+                "Optimistic"
+            ],
+            "Antagonist": [
+                "The Corrupt Leader",
+                "The Betrayed Ally",
+                "The Dark Reflection",
+                "The Supernatural Threat",
+                "The Manipulator",
+                "The Obsessed Genius",
+                "The Relentless Hunter"
+            ],
+            "Supporting Character": [
+                "The Loyal Sidekick",
+                "The Mentor",
+                "The Comic Relief",
+                "The Informant",
+                "The Love Interest",
+                "The Protector",
+                "The Sibling Figure"
+            ],
+            "Character Development": [
+                "Yes",
+                "No"
+            ]
+        }
+    },
+    {
+        "id": "BAAC",
+        "title": "Point of View",
+        "price": 30.0,
+        "currency": "SEK",
+        "description": "",
+        "examples": [],
+        "customizationOptions": {
+            "Point of View": [
+                "First-person",
+                "Third-person limited",
+                "Second-person"
+            ]
+        }
+    },
+    {
+        "id": "BAAD",
+        "title": "Plot",
+        "price": 30.0,
+        "currency": "SEK",
+        "description": "",
+        "examples": [],
+        "customizationOptions": {
+            "Plot": [
+                "Quest",
+                "Coming of Age",
+                "Escape",
+                "Revenge",
+                "Mystery",
+                "Heist",
+                "Redemption"
+            ]
+        }
+    },
+    {
+        "id": "BAAE",
+        "title": "Conflict",
+        "price": 30.0,
+        "currency": "SEK",
+        "description": "",
+        "examples": [],
+        "customizationOptions": {
+            "Conflict": [
+                "Man vs. Machine",
+                "Man vs. Nature",
+                "Man vs. Society",
+                "Man vs. Self",
+                "Man vs. Supernatural",
+                "Man vs. Fate",
+                "Man vs. Unknown"
+            ]
+        }
+    },
+    {
+        "id": "BAAF",
+        "title": "Theme",
+        "price": 30.0,
+        "currency": "SEK",
+        "description": "",
+        "examples": [],
+        "customizationOptions": {
+            "Theme": [
+                "Hope and Resilience",
+                "The Cost of Knowledge",
+                "The Nature of Identity",
+                "Power and Corruption",
+                "The Illusion of Freedom",
+                "Environmental Consequences",
+                "Love and Sacrifice"
+            ]
+        }
+    },
+    {
+        "id": "BAAG",
+        "title": "Dialogue",
+        "price": 30.0,
+        "currency": "SEK",
+        "description": "",
+        "examples": [],
+        "customizationOptions": {
+            "Dialogue": [
+                "None",
+                "Some",
+                "Several",
+                "Alot"
+            ]
+        }
+    },
+    {
+        "id": "BAAH",
+        "title": "Narrative Voice",
+        "price": 30.0,
+        "currency": "SEK",
+        "description": "",
+        "examples": [],
+        "customizationOptions": {
+            "Narrative Voice": [
+                "Wry and Humorous",
+                "Dark and Gritty",
+                "Detached and Clinical",
+                "Whimsical and Lighthearted",
+                "Emotional and Empathetic",
+                "Ominous and Foreboding",
+                "Optimistic and Inspiring"
+            ]
+        }
+    },
+    {
+        "id": "BAAI",
+        "title": "Imagery",
+        "price": 30.0,
+        "currency": "SEK",
+        "description": "",
+        "examples": [],
+        "customizationOptions": {
+            "Imagerly": [
+                "None",
+                "Few",
+                "Some",
+                "Several",
+                "Alot"
+            ]
+        }
+    },
+    {
+        "id": "BAAJ",
+        "title": "Symbolism",
+        "price": 30.0,
+        "currency": "SEK",
+        "description": "",
+        "examples": [],
+        "customizationOptions": {
+            "Symbolism": [
+                "None",
+                "Few",
+                "Some",
+                "Several",
+                "Alot"
+            ]
+        }
+    },
+    {
+        "id": "BAAK",
+        "title": "Foreshadowing",
+        "price": 30.0,
+        "currency": "SEK",
+        "description": "",
+        "examples": [],
+        "customizationOptions": {
+            "Foreshadowing": [
+                "None",
+                "Few",
+                "Some",
+                "Several"
+            ]
+        }
+    },
+    {
+        "id": "BAAL",
+        "title": "Flashbacks",
+        "price": 30.0,
+        "currency": "SEK",
+        "description": "",
+        "examples": [],
+        "customizationOptions": {
+            "Flashback": [
+                "Childhood Memory",
+                "The Last Conversation",
+                "War Experience",
+                "First Love",
+                "The Accident",
+                "Betrayal",
+                "The Day of Loss"
+            ]
+        }
+    },
+    {
+        "id": "BAAM",
+        "title": "Motif",
+        "price": 30.0,
+        "currency": "SEK",
+        "description": "",
+        "examples": [],
+        "customizationOptions": {
+            "Motif": [
+                "Eyes",
+                "Water",
+                "Books",
+                "Doors",
+                "Shadows",
+                "Flowers",
+                "Blood"
+            ]
+        }
+    },
+    {
+        "id": "BAAN",
+        "title": "Subplot",
+        "price": 30.0,
+        "currency": "SEK",
+        "description": "",
+        "examples": [],
+        "customizationOptions": {
+            "Subplot": [
+                "The Love Story",
+                "Reconciliation",
+                "Rivalry",
+                "The Spy",
+                "The Lost Artifact",
+                "Coming to Terms with the Past",
+                "Friendship Forged in Battle"
+            ]
+        }
+    },
+    {
+        "id": "BAAO",
+        "title": "Pacing",
+        "price": 30.0,
+        "currency": "SEK",
+        "description": "",
+        "examples": [],
+        "customizationOptions": {
+            "Pacing": [
+                "Rapid Action",
+                "Slow and Reflective",
+                "Building Tension",
+                "Breathless Escape",
+                "Quiet Interlude",
+                "Relentless Pressure",
+                "Suspenseful Slow Burn"
+            ]
+        }
+    },
+    {
+        "id": "BAAP",
+        "title": "Suspense",
+        "price": 30.0,
+        "currency": "SEK",
+        "description": "",
+        "examples": [],
+        "customizationOptions": {
+            "Suspense": [
+                "The Locked Door",
+                "The Countdown",
+                "Unanswered Questions",
+                "Approaching Footsteps",
+                "The Disappearing Act",
+                "The Unseen Threat",
+                "The Fateful Phone Call"
+            ]
+        }
+    },
+    {
+        "id": "BAAQ",
+        "title": "Cliffhangers",
+        "price": 30.0,
+        "currency": "SEK",
+        "description": "",
+        "examples": [],
+        "customizationOptions": {
+            "Cliffhangers": [
+                "None",
+                "Few",
+                "Some",
+                "Several",
+                "Alot"
+            ]
+        }
+    },
+    {
+        "id": "BAAR",
+        "title": "Moral",
+        "price": 30.0,
+        "currency": "SEK",
+        "description": "",
+        "examples": [],
+        "customizationOptions": {
+            "Cliffhangers": [
+                "The Value of Perseverance",
+                "The Dangers of Greed",
+                "The Power of Forgiveness",
+                "The Importance of Honesty",
+                "Embracing Change",
+                "The Strength of Unity",
+                "Respect for Nature"
+            ]
+        }
+    },
+    {
+        "id": "CAAA",
+        "title": "PDF",
+        "price": 30.0,
+        "currency": "SEK",
+        "description": "",
+        "examples": [],
+        "customizationOptions": {}
+    },
+    {
+        "id": "CAAB",
+        "title": "Printed",
+        "price": 150.0,
+        "currency": "SEK",
+        "description": "",
+        "examples": [],
+        "customizationOptions": {}
+    }
+]
