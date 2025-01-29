@@ -13,11 +13,11 @@
   display: flex;
   flex-direction: column;
 }
-#category-header{
+#categoryHeader{
   height: 30px;
 }
 
-.category-list{
+.categoryList{
   overflow: auto;
   position: relative;
 }
@@ -29,7 +29,7 @@
   /* position: sticky;
   top: 0 */
 }
-.category-border{
+.categoryBorder{
   border-top: 1px solid rgb(145, 149, 179, 0.6);
 }
 .item{
@@ -39,34 +39,34 @@
   justify-content: space-between;
 }
 
-.item-add{
+.itemAdd{
   display: flex; 
   align-self: end;
 }
 
 /*ITEM-CARD*/
-.item-card-container{
+.itemCardContainer{
   display: grid;
   grid-area: 1/2/3/2;
   height: 600px;
   min-width: 380px;
 }
-.item-card{
+.itemCard{
   height: 570px;
   overflow: auto;
 }
 
-#add-material{
+#addMaterial{
   max-height: 25px;
   max-width: 150px;
   display: none;
 }
-#start-tutorial{
+#startTutorial{
   max-height: 25px;
   max-width: 150px;
 }
 
-#add-material-div{
+#addMaterialDiv{
  display: flex;
   align-self: end;
   justify-self: center;
@@ -98,19 +98,19 @@ select{
   justify-content: space-between;
 }
 
-#selection-header{
+#selectionHeader{
   /* height: 60px; */
   display: flex;
   flex-direction: column;
   row-gap: 0px;
 }
 
-#selection-title{
+#selectionTitle{
   padding-bottom: 0px;
   margin-bottom: 0px;
   max-height: 29px;
 }
-#selection-info{
+#selectionInfo{
   max-height: 29px;
   display: flex;
   flex-direction: row;
@@ -119,21 +119,21 @@ select{
   margin-top:0px;
 }
 
-.selection-nr-items{
+.selectionNrItems{
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   padding-right: 5px;
 } /*Fixa ordning detta sedan. vill ha lite space mellan alla delar.*/
 
-.selection-items{
+.selectionItems{
   height: 280px;
   display: flex;
   flex-direction: column;
   overflow: auto;
 }
 
-.selection-price{
+.selectionPrice{
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -142,12 +142,12 @@ select{
 
 /*PREVIEW OF TEXT*/
 
-.to-forge{
+.toForge{
   display:flex;
   justify-self: center;
   align-self: end;
 }
-#to-forge{
+#toForge{
   display: flex;
   align-self: end;
   justify-self: end;
@@ -159,7 +159,7 @@ select{
   flex-direction: column;
 }
 
-#forge-buttons{
+#forgeButtons{
   display: flex;
   justify-content: center;
   height: 25px;

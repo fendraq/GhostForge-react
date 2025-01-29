@@ -2,7 +2,7 @@
 
 /*|| GLOBAL STYLING*/
 body{
-  background-image: url("/assets/images/ghostsmith_blooming_1.png");
+  background-image: url("./assets/images/background/ghostsmith_blooming_1.png");
   background-size: 1280px 720px;
   background-repeat: no-repeat;
   background-position: top;
@@ -31,13 +31,13 @@ h2, h4{
   border: 4px solid rgb(145, 149, 179, 0.6);
   scrollbar-color: rgb(145, 149, 179, 0.6) rgb(50, 52, 66, 0.3);
 }
-.sub-container{
+.subContainer{
   background-color: rgb(50, 52, 66, 0.6);
   padding: 5px 5px 2px 5px;
   margin: 5px 5px 5px 5px;
 }
 
-.site-name{ /*titeln i header*/
+.siteName{ /*titeln i header*/
   font-size: 250%;
   margin-top: 0;
   display: flex;
@@ -113,7 +113,7 @@ li{
   margin-bottom: 2px;
 }
 
-#tutorial-button{ /*When coliding with grid move to top of row 2 col 3*/
+#tutorialButton{ /*When coliding with grid move to top of row 2 col 3*/
   display: flex;
   justify-self: flex-end;
   align-self: flex-start;

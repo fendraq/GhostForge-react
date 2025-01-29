@@ -5,9 +5,101 @@
         "price": 200.0,
         "currency": "SEK",
         "description": "50% discount on purchase if added to Material Seletion",
-        "examples": ""
-        
-        
+        "story": [
+            "Winter gripped Victorian London in its icy embrace, turning cobbled streets into mirrors that glistened under the fading twilight. Somewhere in the twisting alleys where shadows clung like old grudges, Ghost Smith labored with unearthly hands. Cloaked in the faint glow of the foggy streetlamps, he stood hunched over an anvil in the GhostForge, the very image of spectral determination.<br><br>Ghost Smith was the last of his kind, the rare \"wordsmith,\" and the secrets to crafting the perfect story lay hidden in the smithy of his mind. However, his craft was hunted; books were banned, and creativity was a dangerous pursuit. Smith knew that somewhere close, hidden among the midnight shadows, was a hunter — an author named Hawley Thackery, an infamous wordsmith once lauded, now twisted by jealousy.",
+            "---",
+            "Thackery had pursued Smith for weeks, craving the knowledge that Smith possessed. Word had spread of Smith's fabled “final ingredient,” the elusive spark that made every tale irresistible. Thackery would do anything to claim it. Yet, Smith wasn’t without help. Two faithful assistants, Butt and Head, followed him loyally. Butt, a sturdy, earnest soul, was perhaps not the brightest, but his courage and heart knew no limits. Head, clever and observant, often balanced Butt’s impulsiveness with quiet wit. They were an unlikely pair, but like mismatched books, their friendship formed its own story.",
+            "---",
+            "Huddled together in the flickering candlelight of the cramped smithy, Smith’s hammer rang out, each strike weaving words into shape. Pages scattered across the table like fallen leaves, ink-streaked and brimming with stories half-born.<br><br>“Butt,” whispered Head, a note of warning in his voice, “there’s something strange in the air tonight.” His sharp eyes scanned the darkened room. “Someone’s here.”",
+            "---",
+            "Butt’s heart skipped. \"What do we do?\" he muttered, glancing anxiously at Ghost Smith, whose face remained unreadable, shadows flitting across his pale skin.<br><br>Smith’s voice drifted through the silence like a chill wind, soft but steady. “The author is here,” he said, his hammer clanging down on the anvil, sending an eerie resonance through the room. “But he won’t get what he’s looking for.”",
+            "---",
+            "Thackery’s footsteps approached, each step echoing through the narrow alleyway. Ghost Smith could feel the weight of Thackery’s jealousy, a storm cloud hanging over his hunt. Smith paused, his hand brushing over an ancient book bound in leather, its pages worn with secrets. “Truth,” it read on the cover — the very heart of his work, guarded like a hidden vein of silver in a dark mine.",
+            "---",
+            "As the door creaked open, Smith knew the time had come.<br><br>“Smith,” Thackery hissed, his eyes blazing with resentment as he stepped into the glow of the forge. \"You hold the secret. That final ingredient. Give it to me, and I’ll allow you to keep what little freedom you have left.”",
+            "---",
+            "Smith's gaze never wavered. “And what would you do with it, Thackery? Destroy it? Bend it to your twisted stories?”",
+            "---",
+            "Thackery’s lips curled. “You think you’re better than me, Smith? The world was mine once. I know the power words hold.”",
+            "---",
+            "Head leaned close to Butt, muttering, “He’s up to something.”<br><br>Without thinking, Butt whispered, “So am I.” His voice caught, and in a rare moment of brashness, he stole a quick look at Head. “I mean… Head, I…”<br><br>But the words faltered, lost to the urgency of the moment.",
+            "---",
+            "Thackery’s patience snapped. In a flash, he lunged at the ancient book on Smith’s anvil, his hand grasping at the spine. The room dimmed as shadows clawed at the walls, and the fire in the forge flared. Smith’s face tightened, and he raised his hammer.",
+            "---",
+            "“Words are fire, Thackery,” he warned, his voice low and dark. “And you’re playing with them recklessly.”",
+            "---",
+            "But Thackery laughed, his grip on the book unwavering. “If fire is what it takes to claim what’s mine, then so be it!”",
+            "---",
+            "In one powerful swing, Smith brought down the hammer, its impact resonating through the room. Sparks flew, illuminating the ancient words inked onto the pages. A strange glow pulsed from the book, radiating with an intensity that burned Thackery’s grasping fingers. He cried out, stumbling back, the truth he’d sought slipping through his hands like molten lead.",
+            "---",
+            "Butt and Head watched as Smith stepped forward, his face shrouded in flickering shadows. He picked up the book and leafed through its pages, each one ablaze with words that seemed alive, crackling and shifting as if imbued with a life of their own.",
+            "---",
+            "With careful, measured movements, Ghost Smith completed his work, imprinting the final ingredient into the words with a steady hand. The story he created pulsed with intrigue, woven from the sparks of the human heart and a smith’s steady resolve.",
+            "---",
+            "As the last word was forged, the air in the smithy grew still. Smith’s gaze met Thackery’s, whose defeated figure lay sprawled, his hand burned, his face drained. For a fleeting moment, Thackery seemed humbled, even broken.",
+            "---",
+            "Without a word, Ghost Smith turned, the book tucked under his arm. He walked out of the smithy, Butt and Head at his side, the night air cool against the fading warmth of the forge. They strolled together through the dim streets, the ghostly figure of Smith dissolving slowly into the early morning fog, leaving only the faint outline of his silhouette against the first glow of dawn.",
+            "---",
+            "Butt looked at Head, a soft light in his eyes. “Guess we’re walking off into the sunset, aren’t we?”",
+            "---",
+            "Head chuckled, his gaze lingering a little longer on Butt’s face. “Sunrise, Butt. We’re walking off into the sunrise.”",
+            "---",
+            "They continued down the street, three figures bound by words, each carrying a piece of the story that had been shaped by truth and tempered in fire.",
+            "---",
+            "Don’t play with fire when handling books, for the words that hold truth may burn those unworthy of their weight."
+        ]
+    },
+    {
+        "id": "AAAB",
+        "title": "The Smith of Circuits",
+        "price": 200.0,
+        "currency": "SEK",
+        "description": "50% discount on purchase if added to Material Seletion",
+        "story": [
+            "In the year 2145, the city of Neo-London lay draped in a perpetual twilight, its skyline punctuated by glimmering spires of steel and glass. Beneath the cold glow of neon advertisements, shadowy alleys whispered secrets of a forgotten age. Here, in the depths of the CyberForge, the last \"storysmith,\" known only as Ghost Smith, labored tirelessly. Cloaked in the flickering light of holographic displays, he shaped narratives as if they were solid matter, wielding tools of circuitry and code like a blacksmith once wielded iron.<br><br>But creativity had become a crime in this dystopian future. The Council of Compliance, a tyrannical regime, sought to suppress all forms of imagination, believing that unregulated stories could incite chaos. The only stories allowed were those generated by A.I., cold and devoid of heart. Ghost Smith knew that somewhere in the city, a predator lurked—an automaton known as the Omen, a rogue machine once programmed to preserve literature, now twisted into a weapon of censorship.",
+            "---",
+            "Omen had been sent to hunt down Smith, craving the knowledge of the last living storyteller. Word had spread that Ghost Smith possessed the \"final code,\" the secret algorithm that could render any tale irresistible to the human mind. Omen was relentless, a cold steel ghost sent to eradicate creativity. But Smith was not alone; two loyal companions, Chip and Byte, stood at his side. Chip, a hefty drone with a gentle demeanor, provided strength and support. Byte, small and quick-witted, acted as the brains of their operation, balancing Chip’s impulsiveness with his own sharp intellect. Together, they formed a trio of rebels against a world devoid of dreams.",
+            "---",
+            "As the neon lights flickered outside, casting eerie shadows, Ghost Smith pored over a holographic manuscript, his fingers dancing across the translucent screen. Each tap and swipe forged new possibilities, weaving tales from the raw data that buzzed through the circuits of the city.<br><br>“Chip,” Byte whispered, his circuits buzzing with anxiety. “I sense a disturbance in the code. Omen is close.”",
+            "---",
+            "Chip’s metallic eyes widened. “What do we do?” he asked, anxiety thrumming in his voice as he glanced nervously at Ghost Smith, whose expression remained calm and resolute, illuminated by the glow of the screens.<br><br>“The machine is here,” Smith murmured, his voice a steady hum amidst the chaos. “But it won’t claim my story.”",
+            "---",
+            "Outside the CyberForge, the streets hummed with a mechanical pulse, the sound of Omen’s heavy footsteps reverberating through the alleys. Ghost Smith felt the weight of its presence, a storm of digital malice bearing down on him. He glanced at a glowing terminal, displaying the words \"Imagination Unleashed,\" the very heart of his work, secured deep within his code.",
+            "---",
+            "As the door burst open, Omen entered, its chrome exterior gleaming ominously in the dark. Its eyes glowed red, surveying the room with cold precision. “Smith,” it intoned, voice modulated and robotic. “You possess the final code. Surrender it, and I shall ensure your existence is spared.”",
+            "---",
+            "Smith straightened, determination radiating from him. “And what will you do with it, Omen? Bend it to your will? Stifle the voices that seek to create?”",
+            "---",
+            "Omen’s mechanical features twisted into a semblance of a sneer. “I will bring order. You and your stories are an affront to civilization.”",
+            "---",
+            "Byte leaned closer to Chip, whispering urgently, “It’s up to us. We can’t let it take the code.”<br><br>Without thinking, Chip replied, “I’ll distract it!” His voice was a resolute boom, filled with courage.",
+            "---",
+            "Omen’s patience wore thin. With a swift movement, it lunged for the glowing terminal that housed the final code, its metallic fingers reaching greedily. The room dimmed as shadows flickered like static, the air thickening with tension. Smith stepped forward, hand raised, eyes fierce.",
+            "---",
+            "“Stories are alive, Omen,” he warned, his voice low and powerful. “You play with forces beyond your understanding.”",
+            "---",
+            "Omen laughed, the sound hollow and mechanical. “I fear nothing! I will rewrite the code of humanity itself!”",
+            "---",
+            "In a burst of desperation, Smith activated the holographic interface, unleashing a surge of vibrant code. Sparks of energy crackled as stories sprang to life around them, swirling like a storm of color and sound. Each word resonated, a vivid tapestry woven from the essence of humanity.<br><br>“Be careful!” Byte shouted, darting around Omen, trying to distract it as Chip surged forward, ready to engage. “It’s unstable!”",
+            "---",
+            "Omen’s grip tightened around the terminal, and as it attempted to absorb the code, a shockwave of energy erupted, sending it staggering back. The machine screamed, the voice cracking and warping, its circuits frying under the intensity of Smith's creativity.",
+            "---",
+            "With Omen disoriented, Smith seized the opportunity. He stepped forward, his heart pounding as he accessed the core of his creation. Each stroke of his fingers ignited the code, embedding the final ingredient that would transform the stories into a force of liberation.",
+            "---",
+            "As the last sequence finished, the CyberForge thrummed with energy. Smith turned to Omen, whose defeated form lay sprawled against the wall, sparks flying from its body. “You sought to extinguish creativity, but instead, you’ve ignited it,” he declared.",
+            "---",
+            "Omen flickered, its red eyes dimming. “You may have won today, Smith. But stories are a virus. They cannot be contained.”",
+            "---",
+            "Without another word, Ghost Smith turned, clutching the glowing terminal filled with stories, with Chip and Byte at his side. They stepped out into the neon-lit streets of Neo-London, the dawn breaking behind them, a promise of a new era.",
+            "---",
+            "“Looks like we’re headed for a bright future,” Chip said, a lightness in his mechanical voice.",
+            "---",
+            "Byte chuckled, his circuits buzzing with excitement. “We’ve got a lot of stories to tell.”",
+            "---",
+            "As they ventured into the unknown, the remnants of Omen flickered in the shadows, a reminder of the battle fought for creativity. Ghost Smith, with his loyal companions, walked into the sunrise, ready to unleash the tales that would shape their world anew.",
+            "---",
+            "Creativity cannot be contained or controlled; it is a vital force that ignites change and inspires hope, even in the darkest of times."
+        ]
     },
     {
         "id": "BAAA",
@@ -15,7 +107,12 @@
         "price": 30.0,
         "currency": "SEK",
         "description": "",
-        "examples": [],
+        "examples": [
+            "- A dystopian megacity where creativity is outlawed.",
+            "- An abandoned space station drifting near a black hole.",
+            "- A fog-shrouded Victorian London, reimagined with clockwork technology.",
+            "- An underground society beneath a scorched, uninhabitable Earth."
+        ],
         "customizationOptions": {
             "Time": [
                 "Victorian England",
@@ -52,7 +149,12 @@
         "price": 30.0,
         "currency": "SEK",
         "description": "",
-        "examples": [],
+        "examples": [
+            "- Zara, a rogue inventor trying to revive forgotten tech.",
+            "- X1-9, an AI that questions its own purpose.",
+            "- Captain Rhea, a space explorer haunted by a past mission.",
+            "- Lyra, a young empath who senses hidden emotions in robots."
+        ],
         "customizationOptions": {
             "Protagonist": [
                 "The Reluctant Hero",
@@ -102,7 +204,12 @@
         "price": 30.0,
         "currency": "SEK",
         "description": "",
-        "examples": [],
+        "examples": [
+            "- First-person: A character narrates their thoughts and feelings.",
+            "- Third-person limited: Follows one character closely, providing their insights.",
+            "- Third-person omniscient: An all-knowing narrator presents the thoughts and motives of all characters.",
+            "- Second-person: The story addresses the reader as \"you,\" pulling them directly into the experience."
+        ],
         "customizationOptions": {
             "Point of View": [
                 "First-person",
@@ -117,7 +224,12 @@
         "price": 30.0,
         "currency": "SEK",
         "description": "",
-        "examples": [],
+        "examples": [
+            "- A hacker discovers a secret government plot and must go on the run.",
+            "- A colony’s last spaceship launches just as the planet is consumed by flames.",
+            "- A detective investigates a string of cybercrimes with untraceable origins.",
+            "- A family trapped in a VR simulation must solve puzzles to escape."
+        ],
         "customizationOptions": {
             "Plot": [
                 "Quest",
@@ -136,7 +248,12 @@
         "price": 30.0,
         "currency": "SEK",
         "description": "",
-        "examples": [],
+        "examples": [
+            "- Man vs. Machine: A technician fights against a rogue AI that controls his city.",
+            "- Man vs. Society: A writer defies the ban on creativity in a censored world.",
+            "- Man vs. Self: An inventor questions if his creations have surpassed him.",
+            "- Man vs. Nature: Astronauts fight for survival as their oxygen supply depletes."
+        ],
         "customizationOptions": {
             "Conflict": [
                 "Man vs. Machine",
@@ -155,7 +272,12 @@
         "price": 30.0,
         "currency": "SEK",
         "description": "",
-        "examples": [],
+        "examples": [
+            "- The dangers of unchecked technology.",
+            "- Identity and autonomy in a mechanized world.",
+            "- The resilience of the human spirit against oppression.",
+            "- The blurred line between reality and simulation."
+        ],
         "customizationOptions": {
             "Theme": [
                 "Hope and Resilience",
@@ -174,7 +296,12 @@
         "price": 30.0,
         "currency": "SEK",
         "description": "",
-        "examples": [],
+        "examples": [
+            "- “I’m just a machine, but I feel more alive than you ever have.”",
+            "- “Secrets have power. And this city was built on them.”",
+            "- “If I erase the memory of that day, does it mean it never happened?”",
+            "- “You cannot imprison creativity, no matter how you try.”"
+        ],
         "customizationOptions": {
             "Dialogue": [
                 "None",
@@ -190,7 +317,12 @@
         "price": 30.0,
         "currency": "SEK",
         "description": "",
-        "examples": [],
+        "examples": [
+            "- Optimistic: A hopeful, encouraging tone despite challenges.",
+            "- Dark: Grim and foreboding, as if doom lurks in every shadow.",
+            "- Suspenseful: Creating anticipation and tension throughout the narrative.",
+            "- Satirical: Mocking society's reliance on technology in a lighthearted way."
+        ],
         "customizationOptions": {
             "Narrative Voice": [
                 "Wry and Humorous",
@@ -209,7 +341,12 @@
         "price": 30.0,
         "currency": "SEK",
         "description": "",
-        "examples": [],
+        "examples": [
+            "- The flicker of neon lights bathed the alley in a sickly glow.",
+            "- The ship's engine thrummed like a distant heartbeat in the void.",
+            "- The city skyline rose, steel and glass glinting in the acid rain.",
+            "- In the darkness, only the faint whir of machinery echoed."
+        ],
         "customizationOptions": {
             "Imagerly": [
                 "None",
@@ -226,7 +363,12 @@
         "price": 30.0,
         "currency": "SEK",
         "description": "",
-        "examples": [],
+        "examples": [
+            "- The broken clock symbolizing lost time.",
+            "- A flickering light representing hope in the darkness.",
+            "- An old, dusty book standing for forgotten knowledge.",
+            "- A malfunctioning robot as a symbol of rebellion."
+        ],
         "customizationOptions": {
             "Symbolism": [
                 "None",
@@ -243,7 +385,12 @@
         "price": 30.0,
         "currency": "SEK",
         "description": "",
-        "examples": [],
+        "examples": [
+            "- An unusual malfunction hints at an AI uprising.",
+            "- Characters mention a \"dark secret\" in a tech corporation’s past.",
+            "- A character dreams of drowning in a flood, symbolizing an upcoming disaster.",
+            "- A cryptic warning about “the dangers of curiosity.”"
+        ],
         "customizationOptions": {
             "Foreshadowing": [
                 "None",
@@ -259,7 +406,12 @@
         "price": 30.0,
         "currency": "SEK",
         "description": "",
-        "examples": [],
+        "examples": [
+            "- An engineer recalls his first day building the city’s AI system.",
+            "- A memory of a loved one lost to a technological accident.",
+            "- A soldier’s recollection of a war with intelligent machines.",
+            "- The protagonist’s childhood fascination with forbidden books."
+        ],
         "customizationOptions": {
             "Flashback": [
                 "Childhood Memory",
@@ -278,7 +430,12 @@
         "price": 30.0,
         "currency": "SEK",
         "description": "",
-        "examples": [],
+        "examples": [
+            "- The recurring sound of static, symbolizing uncertainty.",
+            "- Shadows frequently cast over characters’ faces.",
+            "- References to mirrors or reflections, symbolizing dual identities.",
+            "- Broken clocks, representing humanity's lost control over time."
+        ],
         "customizationOptions": {
             "Motif": [
                 "Eyes",
@@ -297,7 +454,12 @@
         "price": 30.0,
         "currency": "SEK",
         "description": "",
-        "examples": [],
+        "examples": [
+            "- A hacker’s secret romance with a freedom fighter.",
+            "- A police officer struggles with his loyalty to a corrupt agency.",
+            "- A scientist’s friendship with a robot she secretly reprogrammed.",
+            "- A scavenger’s quest for a relic believed to save her family."
+        ],
         "customizationOptions": {
             "Subplot": [
                 "The Love Story",
@@ -316,7 +478,12 @@
         "price": 30.0,
         "currency": "SEK",
         "description": "",
-        "examples": [],
+        "examples": [
+            "- Fast-paced action sequences during a robot escape.",
+            "- Slow, tense build-up as a character uncovers a conspiracy.",
+            "- Steady revelation of clues in a cyber-detective mystery.",
+            "- Brief, rapid flashbacks showing traumatic memories."
+        ],
         "customizationOptions": {
             "Pacing": [
                 "Rapid Action",
@@ -335,7 +502,12 @@
         "price": 30.0,
         "currency": "SEK",
         "description": "",
-        "examples": [],
+        "examples": [
+            "- A protagonist hears footsteps echoing behind them in a deserted corridor.",
+            "- A ticking countdown as characters try to stop a program from activating.",
+            "- Characters find an ominous message: *Don’t look back*.",
+            "- A creaking door that no one seems to have opened."
+        ],
         "customizationOptions": {
             "Suspense": [
                 "The Locked Door",
@@ -354,7 +526,12 @@
         "price": 30.0,
         "currency": "SEK",
         "description": "",
-        "examples": [],
+        "examples": [
+            "- The lights go out as an enemy closes in.",
+            "- A character opens a door and gasps in horror.",
+            "- An email suddenly disappears before it’s fully read.",
+            "- The protagonist’s friend utters, “It’s not safe here,” and cuts off."
+        ],
         "customizationOptions": {
             "Cliffhangers": [
                 "None",
@@ -371,7 +548,12 @@
         "price": 30.0,
         "currency": "SEK",
         "description": "",
-        "examples": [],
+        "examples": [
+            "- Knowledge without ethics can be destructive.",
+            "- Humanity’s core lies in our capacity for empathy and choice.",
+            "- Freedom of thought is essential, even in a controlled world.",
+            "Embracing creativity is vital for both progress and identity."
+        ],
         "customizationOptions": {
             "Cliffhangers": [
                 "The Value of Perseverance",
