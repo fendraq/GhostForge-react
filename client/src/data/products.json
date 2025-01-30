@@ -1,6 +1,7 @@
 [
     {
         "id": "AAAA",
+        "type": "story",
         "title": "The Smith of Words",
         "price": 200.0,
         "currency": "SEK",
@@ -51,6 +52,7 @@
     },
     {
         "id": "AAAB",
+        "type": "story",
         "title": "The Smith of Circuits",
         "price": 200.0,
         "currency": "SEK",
@@ -200,6 +202,7 @@
     },
     {
         "id": "BAAC",
+        "type": "element",
         "title": "Point of View",
         "price": 30.0,
         "currency": "SEK",
@@ -220,6 +223,7 @@
     },
     {
         "id": "BAAD",
+        "type": "element",
         "title": "Plot",
         "price": 30.0,
         "currency": "SEK",
@@ -244,6 +248,7 @@
     },
     {
         "id": "BAAE",
+        "type": "element",
         "title": "Conflict",
         "price": 30.0,
         "currency": "SEK",
@@ -268,6 +273,7 @@
     },
     {
         "id": "BAAF",
+        "type": "element",
         "title": "Theme",
         "price": 30.0,
         "currency": "SEK",
@@ -292,6 +298,7 @@
     },
     {
         "id": "BAAG",
+        "type": "element",
         "title": "Dialogue",
         "price": 30.0,
         "currency": "SEK",
@@ -313,6 +320,7 @@
     },
     {
         "id": "BAAH",
+        "type": "element",
         "title": "Narrative Voice",
         "price": 30.0,
         "currency": "SEK",
@@ -337,6 +345,7 @@
     },
     {
         "id": "BAAI",
+        "type": "element",
         "title": "Imagery",
         "price": 30.0,
         "currency": "SEK",
@@ -359,6 +368,7 @@
     },
     {
         "id": "BAAJ",
+        "type": "element",
         "title": "Symbolism",
         "price": 30.0,
         "currency": "SEK",
@@ -381,6 +391,7 @@
     },
     {
         "id": "BAAK",
+        "type": "element",
         "title": "Foreshadowing",
         "price": 30.0,
         "currency": "SEK",
@@ -402,6 +413,7 @@
     },
     {
         "id": "BAAL",
+        "type": "element",
         "title": "Flashbacks",
         "price": 30.0,
         "currency": "SEK",
@@ -426,6 +438,7 @@
     },
     {
         "id": "BAAM",
+        "type": "element",
         "title": "Motif",
         "price": 30.0,
         "currency": "SEK",
@@ -450,6 +463,7 @@
     },
     {
         "id": "BAAN",
+        "type": "element",
         "title": "Subplot",
         "price": 30.0,
         "currency": "SEK",
@@ -474,6 +488,7 @@
     },
     {
         "id": "BAAO",
+        "type": "element",
         "title": "Pacing",
         "price": 30.0,
         "currency": "SEK",
@@ -498,6 +513,7 @@
     },
     {
         "id": "BAAP",
+        "type": "element",
         "title": "Suspense",
         "price": 30.0,
         "currency": "SEK",
@@ -522,6 +538,7 @@
     },
     {
         "id": "BAAQ",
+        "type": "element",
         "title": "Cliffhangers",
         "price": 30.0,
         "currency": "SEK",
@@ -544,6 +561,7 @@
     },
     {
         "id": "BAAR",
+        "type": "element",
         "title": "Moral",
         "price": 30.0,
         "currency": "SEK",
@@ -568,6 +586,7 @@
     },
     {
         "id": "CAAA",
+        "type": "inscription",
         "title": "PDF",
         "price": 30.0,
         "currency": "SEK",
@@ -577,6 +596,7 @@
     },
     {
         "id": "CAAB",
+        "type": "inscription",
         "title": "Printed",
         "price": 150.0,
         "currency": "SEK",
