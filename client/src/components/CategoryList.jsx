@@ -1,7 +1,6 @@
-import ButtonAdd from './AddToButton.jsx'
-
+import InspectMaterial from './InspectMaterial'
 // tar data och type som props när funktionen används i app.jsx
-export default function ItemList({ data, type }) {
+export default function ItemList({ data, type, onInspect }) { //hade glömt att skicka onInspect som prop
   // filtrerar datan att bara innehålla items som matchar den givna typen.
   const filteredItems = data.filter(item => item.type === type);
 
@@ -9,7 +8,7 @@ export default function ItemList({ data, type }) {
     <>
       {filteredItems.map(item => (
         <li className="item" key={item.id} data-price={item.price} id={item.id}>{item.title}
-          <ButtonAdd containerId={item.id} />
+          <InspectMaterial item={item} onInspect={onInspect} />
         </li>
       ))}
     </>

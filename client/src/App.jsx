@@ -5,7 +5,7 @@ import ItemList from './components/CategoryList.jsx'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [materialDetails, setMaterialDetails] = useState(null);
 
   return (
     <>
@@ -22,47 +22,65 @@ function App() {
             <ul>
               <li className="category">Forged stories
                 <ul className="categoryBorder" id="stories">
-                  <ItemList data={data} type="story" />
+                  <ItemList data={data} type="story" onInspect={setMaterialDetails} />
                 </ul>
               </li>
               <li className="category">Forge Your Story
                 <ul className="categoryBorder" id="itemList">
-                  <ItemList data={data} type="element" />
+                  <ItemList data={data} type="element" onInspect={setMaterialDetails} />
                 </ul>
               </li>
               <li className="category">Inscribe on
                 <ul className="categoryBorder" id="inscription">
-                  <ItemList data={data} type="inscription" />
+                  <ItemList data={data} type="inscription" onInspect={setMaterialDetails} />
                 </ul>
               </li>
             </ul>
           </div>
         </section>
         <section className="container itemCardContainer">
-          <div className="itemCard" id="itemCard">
-            <div className="sub-container" id="buildTemplate"> 
-              <h3 id="itemTitel">Material titel</h3><p>Price: <span className="price">150</span> SEK</p>
-              <div className="itemDescriptionContainer">
-                <p id="itemDescription">Material description:  </p>
-              </div>
-              <div className="itemExampleContainer">
-                <p id="itemExample">Material example: </p>
-              </div>
-              <div id="customizer">
-                <div>
-                  <h4>Customize your material</h4>
-                  <div className="form" id="form">
-                    --Add customation options--
+          {materialDetails ? (
+            <>
+              <div className="itemCard" id="itemCard">
+                <div className="sub-container" id="buildTemplate"> 
+                    <h3 id="itemTitel">{materialDetails.title}</h3><p>Price: <span className="price">{materialDetails.price}</span> SEK</p>
+                  <div className="itemDescriptionContainer">
+                    <p id="itemDescription">Material description: {materialDetails.description} </p>
+                  </div>
+                  <div className="itemExampleContainer">
+                        <p id="itemExample">Material example: {materialDetails.examples?.map((example, index) => (
+                          <li key={index}>{example}</li>
+                    ))}</p>
+                  </div>
+                  <div id="customizer">
+                    <div>
+                      <h4>Customize your material</h4>
+                      <div className="form" id="form">
+                        {Object.keys(materialDetails.customizationOptions || {}).map((category) => (
+                          <div key={category} className="customizationGroup">
+                            <label htmlFor={category}>{category}</label>
+                            <select id={category} name={category}>
+                              {materialDetails.customizationOptions[category].map((option, index) => (
+                                  <option key={index} value={option}>
+                                    {option}
+                                  </option>
+                                ))}
+                            </select>
+                          </div>
+                        ))}
+                      </div>
+                    </div>
                   </div>
                 </div>
               </div>
-            </div>
-          </div>
-          <div id="addMaterialDiv">
-            {/* Add buttons: 
-            <button id="addMaterial">-- Add to Selection --</button>
-            <button id="startTutorial">-- Start Tutorial --</button> */}
-          </div>
+              <div id="addMaterialDiv">
+                <button id="addMaterial">-- Add to Selection --</button>
+                {/* <button id="startTutorial">-- Start Tutorial --</button> */}
+              </div>
+            </>
+          ) : (
+              <p>Select an item to see details.</p>
+          )}
         </section>
         <section className="container selection">
           <div className="subContainer" id="selectionHeader">

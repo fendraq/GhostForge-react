@@ -105,15 +105,16 @@
     },
     {
         "id": "BAAA",
+        "type": "element",
         "title": "Setting",
         "price": 30.0,
         "currency": "SEK",
-        "description": "",
+        "description": "The backdrop of time, place, and environment where the story unfolds.",
         "examples": [
-            "- A dystopian megacity where creativity is outlawed.",
-            "- An abandoned space station drifting near a black hole.",
-            "- A fog-shrouded Victorian London, reimagined with clockwork technology.",
-            "- An underground society beneath a scorched, uninhabitable Earth."
+            "A dystopian megacity where creativity is outlawed.",
+            "An abandoned space station drifting near a black hole.",
+            "A fog-shrouded Victorian London, reimagined with clockwork technology.",
+            "An underground society beneath a scorched, uninhabitable Earth."
         ],
         "customizationOptions": {
             "Time": [
@@ -147,15 +148,16 @@
     },
     {
         "id": "BAAB",
+        "type": "element",
         "title": "Characters",
         "price": 30.0,
         "currency": "SEK",
-        "description": "",
+        "description": "The individuals, creatures, or entities that bring the story to life.",
         "examples": [
-            "- Zara, a rogue inventor trying to revive forgotten tech.",
-            "- X1-9, an AI that questions its own purpose.",
-            "- Captain Rhea, a space explorer haunted by a past mission.",
-            "- Lyra, a young empath who senses hidden emotions in robots."
+            "Zara, a rogue inventor trying to revive forgotten tech.",
+            "X1-9, an AI that questions its own purpose.",
+            "Captain Rhea, a space explorer haunted by a past mission.",
+            "Lyra, a young empath who senses hidden emotions in robots."
         ],
         "customizationOptions": {
             "Protagonist": [
@@ -206,12 +208,12 @@
         "title": "Point of View",
         "price": 30.0,
         "currency": "SEK",
-        "description": "",
+        "description": "The narrative perspective from which the story is told.",
         "examples": [
-            "- First-person: A character narrates their thoughts and feelings.",
-            "- Third-person limited: Follows one character closely, providing their insights.",
-            "- Third-person omniscient: An all-knowing narrator presents the thoughts and motives of all characters.",
-            "- Second-person: The story addresses the reader as \"you,\" pulling them directly into the experience."
+            "First-person: A character narrates their thoughts and feelings.",
+            "Third-person limited: Follows one character closely, providing their insights.",
+            "Third-person omniscient: An all-knowing narrator presents the thoughts and motives of all characters.",
+            "Second-person: The story addresses the reader as \"you,\" pulling them directly into the experience."
         ],
         "customizationOptions": {
             "Point of View": [
@@ -227,12 +229,12 @@
         "title": "Plot",
         "price": 30.0,
         "currency": "SEK",
-        "description": "",
+        "description": "The main sequence of events, or structure of the story.",
         "examples": [
-            "- A hacker discovers a secret government plot and must go on the run.",
-            "- A colony’s last spaceship launches just as the planet is consumed by flames.",
-            "- A detective investigates a string of cybercrimes with untraceable origins.",
-            "- A family trapped in a VR simulation must solve puzzles to escape."
+            "A hacker discovers a secret government plot and must go on the run.",
+            "A colony’s last spaceship launches just as the planet is consumed by flames.",
+            "A detective investigates a string of cybercrimes with untraceable origins.",
+            "A family trapped in a VR simulation must solve puzzles to escape."
         ],
         "customizationOptions": {
             "Plot": [
@@ -252,12 +254,12 @@
         "title": "Conflict",
         "price": 30.0,
         "currency": "SEK",
-        "description": "",
+        "description": "The central struggle driving the story.",
         "examples": [
-            "- Man vs. Machine: A technician fights against a rogue AI that controls his city.",
-            "- Man vs. Society: A writer defies the ban on creativity in a censored world.",
-            "- Man vs. Self: An inventor questions if his creations have surpassed him.",
-            "- Man vs. Nature: Astronauts fight for survival as their oxygen supply depletes."
+            "Man vs. Machine: A technician fights against a rogue AI that controls his city.",
+            "Man vs. Society: A writer defies the ban on creativity in a censored world.",
+            "Man vs. Self: An inventor questions if his creations have surpassed him.",
+            "Man vs. Nature: Astronauts fight for survival as their oxygen supply depletes."
         ],
         "customizationOptions": {
             "Conflict": [
@@ -277,12 +279,12 @@
         "title": "Theme",
         "price": 30.0,
         "currency": "SEK",
-        "description": "",
+        "description": "The underlying ideas or message within the story.",
         "examples": [
-            "- The dangers of unchecked technology.",
-            "- Identity and autonomy in a mechanized world.",
-            "- The resilience of the human spirit against oppression.",
-            "- The blurred line between reality and simulation."
+            "The dangers of unchecked technology.",
+            "Identity and autonomy in a mechanized world.",
+            "The resilience of the human spirit against oppression.",
+            "The blurred line between reality and simulation."
         ],
         "customizationOptions": {
             "Theme": [
@@ -302,12 +304,12 @@
         "title": "Dialogue",
         "price": 30.0,
         "currency": "SEK",
-        "description": "",
+        "description": "Conversations between characters that reveal traits, motivations, or conflicts.",
         "examples": [
-            "- “I’m just a machine, but I feel more alive than you ever have.”",
-            "- “Secrets have power. And this city was built on them.”",
-            "- “If I erase the memory of that day, does it mean it never happened?”",
-            "- “You cannot imprison creativity, no matter how you try.”"
+            "“I’m just a machine, but I feel more alive than you ever have.”",
+            "“Secrets have power. And this city was built on them.”",
+            "“If I erase the memory of that day, does it mean it never happened?”",
+            "“You cannot imprison creativity, no matter how you try.”"
         ],
         "customizationOptions": {
             "Dialogue": [
@@ -324,12 +326,12 @@
         "title": "Narrative Voice",
         "price": 30.0,
         "currency": "SEK",
-        "description": "",
+        "description": "The attitude conveyed through the writing style and narrator's voice.",
         "examples": [
-            "- Optimistic: A hopeful, encouraging tone despite challenges.",
-            "- Dark: Grim and foreboding, as if doom lurks in every shadow.",
-            "- Suspenseful: Creating anticipation and tension throughout the narrative.",
-            "- Satirical: Mocking society's reliance on technology in a lighthearted way."
+            "Optimistic: A hopeful, encouraging tone despite challenges.",
+            "Dark: Grim and foreboding, as if doom lurks in every shadow.",
+            "Suspenseful: Creating anticipation and tension throughout the narrative.",
+            "Satirical: Mocking society's reliance on technology in a lighthearted way."
         ],
         "customizationOptions": {
             "Narrative Voice": [
@@ -349,12 +351,12 @@
         "title": "Imagery",
         "price": 30.0,
         "currency": "SEK",
-        "description": "",
+        "description": "Vivid descriptions that create sensory experiences for readers.",
         "examples": [
-            "- The flicker of neon lights bathed the alley in a sickly glow.",
-            "- The ship's engine thrummed like a distant heartbeat in the void.",
-            "- The city skyline rose, steel and glass glinting in the acid rain.",
-            "- In the darkness, only the faint whir of machinery echoed."
+            "The flicker of neon lights bathed the alley in a sickly glow.",
+            "The ship's engine thrummed like a distant heartbeat in the void.",
+            "The city skyline rose, steel and glass glinting in the acid rain.",
+            "In the darkness, only the faint whir of machinery echoed."
         ],
         "customizationOptions": {
             "Imagerly": [
@@ -372,12 +374,12 @@
         "title": "Symbolism",
         "price": 30.0,
         "currency": "SEK",
-        "description": "",
+        "description": "Objects or events that represent larger ideas.",
         "examples": [
-            "- The broken clock symbolizing lost time.",
-            "- A flickering light representing hope in the darkness.",
-            "- An old, dusty book standing for forgotten knowledge.",
-            "- A malfunctioning robot as a symbol of rebellion."
+            "The broken clock symbolizing lost time.",
+            "A flickering light representing hope in the darkness.",
+            "An old, dusty book standing for forgotten knowledge.",
+            "A malfunctioning robot as a symbol of rebellion."
         ],
         "customizationOptions": {
             "Symbolism": [
@@ -395,12 +397,12 @@
         "title": "Foreshadowing",
         "price": 30.0,
         "currency": "SEK",
-        "description": "",
+        "description": "Hints or clues about what will happen later.",
         "examples": [
-            "- An unusual malfunction hints at an AI uprising.",
-            "- Characters mention a \"dark secret\" in a tech corporation’s past.",
-            "- A character dreams of drowning in a flood, symbolizing an upcoming disaster.",
-            "- A cryptic warning about “the dangers of curiosity.”"
+            "An unusual malfunction hints at an AI uprising.",
+            "Characters mention a \"dark secret\" in a tech corporation’s past.",
+            "A character dreams of drowning in a flood, symbolizing an upcoming disaster.",
+            "A cryptic warning about “the dangers of curiosity.”"
         ],
         "customizationOptions": {
             "Foreshadowing": [
@@ -417,12 +419,12 @@
         "title": "Flashbacks",
         "price": 30.0,
         "currency": "SEK",
-        "description": "",
+        "description": "Scenes that return to earlier events, revealing background.",
         "examples": [
-            "- An engineer recalls his first day building the city’s AI system.",
-            "- A memory of a loved one lost to a technological accident.",
-            "- A soldier’s recollection of a war with intelligent machines.",
-            "- The protagonist’s childhood fascination with forbidden books."
+            "An engineer recalls his first day building the city’s AI system.",
+            "A memory of a loved one lost to a technological accident.",
+            "A soldier’s recollection of a war with intelligent machines.",
+            "The protagonist’s childhood fascination with forbidden books."
         ],
         "customizationOptions": {
             "Flashback": [
@@ -442,12 +444,12 @@
         "title": "Motif",
         "price": 30.0,
         "currency": "SEK",
-        "description": "",
+        "description": "A recurring idea or element that reinforces themes.",
         "examples": [
-            "- The recurring sound of static, symbolizing uncertainty.",
-            "- Shadows frequently cast over characters’ faces.",
-            "- References to mirrors or reflections, symbolizing dual identities.",
-            "- Broken clocks, representing humanity's lost control over time."
+            "The recurring sound of static, symbolizing uncertainty.",
+            "Shadows frequently cast over characters’ faces.",
+            "References to mirrors or reflections, symbolizing dual identities.",
+            "Broken clocks, representing humanity's lost control over time."
         ],
         "customizationOptions": {
             "Motif": [
@@ -467,12 +469,12 @@
         "title": "Subplot",
         "price": 30.0,
         "currency": "SEK",
-        "description": "",
+        "description": "A secondary storyline that complements the main plot.",
         "examples": [
-            "- A hacker’s secret romance with a freedom fighter.",
-            "- A police officer struggles with his loyalty to a corrupt agency.",
-            "- A scientist’s friendship with a robot she secretly reprogrammed.",
-            "- A scavenger’s quest for a relic believed to save her family."
+            "A hacker’s secret romance with a freedom fighter.",
+            "A police officer struggles with his loyalty to a corrupt agency.",
+            "A scientist’s friendship with a robot she secretly reprogrammed.",
+            "A scavenger’s quest for a relic believed to save her family."
         ],
         "customizationOptions": {
             "Subplot": [
@@ -492,12 +494,12 @@
         "title": "Pacing",
         "price": 30.0,
         "currency": "SEK",
-        "description": "",
+        "description": "The speed at which events in the story unfold.",
         "examples": [
-            "- Fast-paced action sequences during a robot escape.",
-            "- Slow, tense build-up as a character uncovers a conspiracy.",
-            "- Steady revelation of clues in a cyber-detective mystery.",
-            "- Brief, rapid flashbacks showing traumatic memories."
+            "Fast-paced action sequences during a robot escape.",
+            "Slow, tense build-up as a character uncovers a conspiracy.",
+            "Steady revelation of clues in a cyber-detective mystery.",
+            "Brief, rapid flashbacks showing traumatic memories."
         ],
         "customizationOptions": {
             "Pacing": [
@@ -517,12 +519,12 @@
         "title": "Suspense",
         "price": 30.0,
         "currency": "SEK",
-        "description": "",
+        "description": "Creating a sense of anticipation or fear for what will happen.",
         "examples": [
-            "- A protagonist hears footsteps echoing behind them in a deserted corridor.",
-            "- A ticking countdown as characters try to stop a program from activating.",
-            "- Characters find an ominous message: *Don’t look back*.",
-            "- A creaking door that no one seems to have opened."
+            "A protagonist hears footsteps echoing behind them in a deserted corridor.",
+            "A ticking countdown as characters try to stop a program from activating.",
+            "Characters find an ominous message: *Don’t look back*.",
+            "A creaking door that no one seems to have opened."
         ],
         "customizationOptions": {
             "Suspense": [
@@ -542,12 +544,12 @@
         "title": "Cliffhangers",
         "price": 30.0,
         "currency": "SEK",
-        "description": "",
+        "description": "Unresolved endings to create intrigue or anticipation.",
         "examples": [
-            "- The lights go out as an enemy closes in.",
-            "- A character opens a door and gasps in horror.",
-            "- An email suddenly disappears before it’s fully read.",
-            "- The protagonist’s friend utters, “It’s not safe here,” and cuts off."
+            "The lights go out as an enemy closes in.",
+            "A character opens a door and gasps in horror.",
+            "An email suddenly disappears before it’s fully read.",
+            "The protagonist’s friend utters, “It’s not safe here,” and cuts off."
         ],
         "customizationOptions": {
             "Cliffhangers": [
@@ -565,11 +567,11 @@
         "title": "Moral",
         "price": 30.0,
         "currency": "SEK",
-        "description": "",
+        "description": "The lesson or takeaway from the story.",
         "examples": [
-            "- Knowledge without ethics can be destructive.",
-            "- Humanity’s core lies in our capacity for empathy and choice.",
-            "- Freedom of thought is essential, even in a controlled world.",
+            "Knowledge without ethics can be destructive.",
+            "Humanity’s core lies in our capacity for empathy and choice.",
+            "Freedom of thought is essential, even in a controlled world.",
             "Embracing creativity is vital for both progress and identity."
         ],
         "customizationOptions": {
@@ -590,7 +592,7 @@
         "title": "PDF",
         "price": 30.0,
         "currency": "SEK",
-        "description": "",
+        "description": "Inscribe your story on a PDF",
         "examples": [],
         "customizationOptions": {}
     },
